@@ -1,3 +1,3 @@
 # hello-world
 Testing repository
-Learning how to github. ^^
+Learning how to github. ^^.
